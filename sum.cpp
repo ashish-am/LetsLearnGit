@@ -7,7 +7,7 @@ int main() {
     int a = 9;
     int b = 4;
     
-    cout << (a+b) << endl;
+    cout << "The sum is " << (a+b) << endl;
     
     return 0;
 }
